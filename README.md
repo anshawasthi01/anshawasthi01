@@ -25,7 +25,7 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/anshawasthi01/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ansh_Awasthi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshawasthi01/)](https://www.linkedin.com/in/anshawasthi01/)
 
 [![Gmail Badge](https://img.shields.io/badge/-anshawasthi3894@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshawasthi3894@gmail.com)](mailto:anshawasthi3894@gmail.com)
 
