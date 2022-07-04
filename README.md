@@ -53,13 +53,13 @@
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riti2409&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshaasthi01&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=riti2409&theme=react-dark)](https://github.com/anshawasthi01/github-readme-activity-graph)
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=anshawasthi01&theme=react-dark)](https://github.com/anshawasthi01/github-readme-activity-graph)
 
   
 
@@ -68,7 +68,7 @@
 </p>
 
 
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=riti2409&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=anshawasthi01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left) 
 <center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
 
 
