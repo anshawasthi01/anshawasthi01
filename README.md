@@ -68,7 +68,7 @@
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshaasthi01&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshawasthi01&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
