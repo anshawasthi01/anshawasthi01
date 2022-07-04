@@ -86,6 +86,7 @@
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/anshawasthi01/count.svg?align=center)
+<!-- <img src="https://komarev.com/ghpvc/?username=anshawasthi01&label=Profile%20views&color=0e75b6&style=flat" alt="anshawasthi01" /> -->
 
 
 <!-- GITHUB STATISTICS -->
