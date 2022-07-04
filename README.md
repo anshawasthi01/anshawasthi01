@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Riti Kumari**, currently pursuing my bachelors from UCET VBU,Hazaribagh in *Computer and Science Engineering*. <br>
+✔️ I am **Ansh Awasthi**, currently pursuing my bachelors from UCET VBU,Hazaribagh in *Computer and Science Engineering*. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
@@ -25,9 +25,9 @@
 
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/riti2409/)
+[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/anshawasthi01/)
 
-[![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikumariupadhyay24@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-anshawasthi3894@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshawasthi3894@gmail.com)](mailto:anshawasthi3894@gmail.com)
 
 ---
 
@@ -37,17 +37,17 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshawasthi01&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/anshawasthi01/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=riti2409)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=anshawasthi01)  
  
  
  <hr>
@@ -59,7 +59,7 @@
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=riti2409&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=riti2409&theme=react-dark)](https://github.com/anshawasthi01/github-readme-activity-graph)
 
   
 
