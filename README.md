@@ -19,7 +19,7 @@
 
 
 <!--ABOUT ME CODE-->
-🌱 **About Myself**<br>   <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshawasthi01" alt="anshawasthi01" /> </p>
+🌱 **About Myself**<br>   <span><p align="left"> <img src="https://komarev.com/ghpvc/?username=anshawasthi01" alt="anshawasthi01" /> </p></span>
 
 ✔️ I am **Ansh Awasthi**, currently pursuing my bachelors from KIET Group of Institutions, Ghaziabad in *Information Technology*. <br>
 
