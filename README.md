@@ -6,19 +6,19 @@
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h1 align=center>👋 Good to have you here!!</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshawasthi01" alt="anshawasthi01" /> </p>
+
 
 <h3 align="center">Software Engineer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshawasthi01" alt="anshawasthi01" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshawasthi01" alt="anshawasthi01" /> </p>
 ---
 
 
 <!--ABOUT ME CODE-->
-🌱 **About Myself**<br>
+🌱 **About Myself**<br> 
 
-✔️ I am **Ansh Awasthi**, currently pursuing my bachelors from KIET Group o Institutions, Ghaziabad in *Information Technology*. <br>
+✔️ I am **Ansh Awasthi**, currently pursuing my bachelors from KIET Group of Institutions, Ghaziabad in *Information Technology*. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
