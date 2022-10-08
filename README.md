@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshawasthi01" alt="anshawasthi01" /></a> </p>
 
-
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshawasthi01" alt="anshawasthi01" /> </p>
 
