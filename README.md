@@ -5,7 +5,7 @@
 
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h1 align=center>👋 Good to have you here!!</h2>
+<h1 align=center>👋 Good to have you here!!</h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=anshawasthi01" alt="anshawasthi01" /> </p>
 
 
 <h3 align="center">Software Engineer</h3>
