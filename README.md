@@ -14,12 +14,12 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshawasthi01" alt="anshawasthi01" /> </p>
+
 
 
 
 <!--ABOUT ME CODE-->
-🌱 **About Myself**<br> 
+🌱 **About Myself**<br>   <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshawasthi01" alt="anshawasthi01" /> </p>
 
 ✔️ I am **Ansh Awasthi**, currently pursuing my bachelors from KIET Group of Institutions, Ghaziabad in *Information Technology*. <br>
 
