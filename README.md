@@ -7,7 +7,7 @@
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h1 align=center>👋 Good to have you here!!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshawasthi01" alt="anshawasthi01" /> </p>
----
+
 <h3 align="center">Software Engineer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshawasthi01" alt="anshawasthi01" /></a> </p>
