@@ -82,7 +82,7 @@
 
 
 ---
-<!-- STATISTICS ABOUT PROFILE -->
+<!-- Leet Code PROFILE -->
 
 ![](https://leetcard.jacoblin.cool/anshawasthi01?ext=activity)
 ---
