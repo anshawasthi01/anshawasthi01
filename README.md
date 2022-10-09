@@ -85,6 +85,7 @@
 <!-- Leet Code PROFILE -->
 
 ![](https://leetcard.jacoblin.cool/anshawasthi01?ext=activity)
+![](https://leetcard.jacoblin.cool/anshawasthi01?ext=heatmap)
 ---
 
 <!-- STATISTICS ABOUT PROFILE -->
