@@ -82,6 +82,10 @@
 
 
 ---
+<!-- STATISTICS ABOUT PROFILE -->
+
+![](https://leetcard.jacoblin.cool/anshawasthi01?ext=activity)
+---
 
 <!-- STATISTICS ABOUT PROFILE -->
 
