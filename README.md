@@ -52,12 +52,12 @@
 <!---->
 <a href="https://www.youtube.com/c/https://https://www.youtube.com/channel/UCWFCaCitPpHLsKL_aajE9nA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/anshawasthi01" height="30" width="40" /></a>
  
-</p>
+
 
 ---
 
 <!--LANGUAGES AND TOOLS-->
-<p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <!----> 
