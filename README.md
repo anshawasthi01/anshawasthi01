@@ -122,9 +122,12 @@
 
 ---
   </code>
-  ![Snake animation](https://github.com/anshawasthi01/anshawasthi01/blob/main/github-contribution-grid-snake.svg)
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+![Snake animation](https://github.com/anshawasthi01/anshawasthi01/blob/main/github-contribution-grid-snake.svg)
+
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
 
 
