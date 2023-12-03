@@ -47,11 +47,11 @@
 <!---->
 <a href="https://www.hackerrank.com/@anshawasthi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshawasthi01" height="30" width="40" /></a>
 <!---->
-<a href="https://instagram.com/ansh.awasthii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshawasthi01" height="30" width="40" /></a>
+<a href="https://instagram.com/anshawasthi010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshawasthi010" height="30" width="40" /></a>
 <!---->
-<a href="https://fb.com/anshlife1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anshawasthi01" height="30" width="40" /></a>
+<a href="https://fb.com/anshawasthi010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anshawasthi010" height="30" width="40" /></a>
 <!---->
-<a href="https://twitter.com/anshlife1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshawasthi01" height="30" width="40" /></a>
+<a href="https://twitter.com/anshawasthi010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshawasthi010" height="30" width="40" /></a>
 <!---->
 <a href="https://www.youtube.com/c/https://https://www.youtube.com/channel/UCWFCaCitPpHLsKL_aajE9nA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/anshawasthi01" height="30" width="40" /></a>
  </p>
